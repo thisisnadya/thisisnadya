@@ -4,7 +4,7 @@
 - 👀 I’m interested in web development and cyber security
 - I also interested in linguistic 
 - 🌱 I’m currently learning react js
-- 📫 How to reach me 
+- 📫 How to reach me : tasyamumtazah5@gmail.com
 - Whatsapp : +6281910130723
 - Instagram : nadyamumtazah_
 
