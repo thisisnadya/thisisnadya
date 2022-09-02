@@ -7,6 +7,7 @@
 - 📫 How to reach me : tasyamumtazah5@gmail.com
 - Whatsapp : +6281910130723
 - Instagram : nadyamumtazah_
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisnadya)](https://github.com/anuraghazra/github-readme-stats)
 - Gracias!
 <!---
 thisisnadya/thisisnadya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
