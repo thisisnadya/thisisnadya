@@ -20,10 +20,10 @@
    <br/>
    👀 I’m interested in web development and cyber security
    <br/>
-   I also interested in linguistic 
-   <br/>
-  🌱 I’m currently get in depth with React and Node js
+  🌱 Currently get in depth with NextJs and Software Testing
   <br/>
+  :tv: Movie and series addict. Psst, find me on <a href="https://letterboxd.com/skyvader/">letterboxd</a>
+  
   📫 How to reach me : tasyamumtazah5@gmail.com
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisnadya&show_icons=true&count_private=true&theme=radical)      
