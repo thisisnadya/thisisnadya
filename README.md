@@ -24,7 +24,7 @@
   <br/>
   :tv: Movie and series addict. Psst, find me on <a href="https://letterboxd.com/skyvader/">letterboxd</a>
   
-  📫 How to reach me : tasyamumtazah5@gmail.com
+  📫 How to reach me : nadyamumtazah20@gmail.com
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=thisisnadya&show_icons=true&count_private=true&theme=radical)      
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisnadya&layout=compact&theme=radical)
