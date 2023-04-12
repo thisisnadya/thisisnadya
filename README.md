@@ -16,6 +16,8 @@
    
    👋 Hola, I’m Nadya Mumtazah
    <br/>
+    Bangkit Cloud Computing Cohort 2023
+   <br/>
     I speak Indonesia, English, and basic Spanish :)
    <br/>
    👀 I’m interested in web development and cyber security
