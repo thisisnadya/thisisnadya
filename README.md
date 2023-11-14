@@ -8,9 +8,6 @@
     <a href="https://www.instgram.com/nadyamumtazah_">
       <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
     </a>
-    <a href="https://wa.me/6281910130723">
-      <img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge"/>
-    </a>
    </div>
    <br/>
    
@@ -20,9 +17,9 @@
    <br/>
     I speak Indonesia, English, and basic Spanish :)
    <br/>
-   👀 I’m interested in web development and cyber security
+   👀 I’m interested in data management, business intelligence, and data engineering & analysis
    <br/>
-  🌱 Currently get in depth with NextJs and Software Testing
+  🌱 Currently get in depth with provide reports for Data Analysis
   <br/>
   :tv: Movie and series addict. Psst, find me on <a href="https://letterboxd.com/skyvader/">letterboxd</a>
   
