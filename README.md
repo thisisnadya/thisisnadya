@@ -13,13 +13,13 @@
    
    👋 Hola, I’m Nadya Mumtazah
    <br/>
-    Bangkit Cloud Computing Cohort 2023
+    Data Management & Analysis
    <br/>
     I speak Indonesia, English, and basic Spanish :)
    <br/>
-   👀 I’m interested in data management, business intelligence, and data engineering & analysis
+   👀 I’m interested in IT and business analytics
    <br/>
-  🌱 Currently get in depth with provide reports for Data Analysis
+  🌱 Currently learn DevOps and Cyber Security
   <br/>
   :tv: Movie and series addict. Psst, find me on <a href="https://letterboxd.com/skyvader/">letterboxd</a>
   
